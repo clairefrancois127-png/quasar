@@ -1,4 +1,4 @@
----
+pré-requis 
 title: Chat Message
 desc: The QChatMessage Vue component displays a chat entry containing one or more user messages.
 keys: QChatMessage
